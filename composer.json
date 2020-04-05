@@ -1,0 +1,28 @@
+{
+  "name": "qingbing/php-yar-doc",
+  "description": "php-yar-doc，yar扩展框架编码提示文档",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "php",
+    "yar",
+    "doc",
+    "php-yar",
+    "yar-api",
+    "document"
+  ],
+  "homepage": "http://www.phpcorner.net",
+  "authors": [
+    {
+      "name": "qingbing",
+      "email": "780042175@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "ext-yar": "*"
+  },
+  "autoload": {},
+  "autoload-dev": {},
+  "repositories": {}
+}
