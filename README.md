@@ -43,14 +43,6 @@ composer require-dev qingbing/php-yar-doc
 |yar.timeout|5000|PHP_INI_ALL|处理超时(毫秒为单位)|
 |yar.expose_info|On|PHP_INI_SYS|如果关闭, 则当通过浏览器访问Server的时候, 不会出现Server Info信息|
 
-## Class-List-Doc : 
-- Yar_Server_Request_Exception
-- Yar_Server_Protocol_Exception
-- Yar_Server_Packager_Exception
-- Yar_Server_Output_Exception
-- Yar_Client_Transport_Exception
-- Yar_Client_Packager_Exception
-- Yar_Client_Protocol_Exception
 
 ## Class-List-Doc : 
 - Yar_Server
